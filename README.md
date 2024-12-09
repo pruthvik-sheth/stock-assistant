@@ -4,7 +4,8 @@ An AI-powered stock analysis platform that combines real-time market data with L
 
 ## Project Structure
 
-stock-assistant-final/
+```
+stock-assistant/
 ├── backend/
 │ ├── src/
 │ │ ├── analysis/
@@ -36,6 +37,7 @@ stock-assistant-final/
 │ ├── lib/
 │ └── StockDashboard.jsx
 └── public/
+```
 
 ## Features
 
